@@ -1,5 +1,6 @@
 # SimulacionComputadora_2023B
 Lepiz Hernandez Manuel Alejandro - Simulación por Computadora 2023B
+Practica 01 - Cubo Piramide
 
 ![alt text](https://github.com/ManuelALH/SimulacionComputadora_2023B/blob/main/Practica%2001%20-%20Cubo%20Piramide/ss_01.png?raw=true "ss_01")
 
